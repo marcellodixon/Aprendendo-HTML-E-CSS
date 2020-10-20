@@ -19,15 +19,31 @@ padding: 10px 10px 10px 10px    /* espaço entre o texto e a pagina*/
 img#icone {
          position: absolute;
          left: 1300px;
-         top:60px;
+         top:55px;
 
 
 }
 
 header#cabecalho{
 
-	border-bottom: 5px #696969	dotted;
-	height: 30px;
+	border-bottom: 5px #696969	solid;
+	height:/* height = altura do site */45px;
+	background-image: url("file:///C:/Users/Marce/Documents/www/Aprendendo-HTML-E-CSS/projeto-glass-html5/worder.png");
+	background-repeat: no-repeat;
+
+}
+header#cabecalho h1{
+font-family: arial, sans-serif;
+font-size: 30px;
+color: grey;
+text-shadow: 1px 1px 1px 1px;
+
+
+}
+header#cabecalho h2{
+
+
+
 }
 
 /*   formtação em imagens  */
